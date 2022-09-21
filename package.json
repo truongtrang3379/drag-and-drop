@@ -14,7 +14,7 @@
     "vue-lodash": "^2.1.2",
     "vue-stash": "^2.0.1-beta",
     "vuedraggable": "^2.23.2",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
